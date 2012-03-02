@@ -1,7 +1,7 @@
 
 - set_attribute.rb
 
-   nife plugin to set node Attributes http://wiki.opscode.com/display/chef/Attributes
+   Knife plugin to set node Attributes http://wiki.opscode.com/display/chef/Attributes
 
   Install
      Place in .chef/plugins/knife/set_attributes.rb
