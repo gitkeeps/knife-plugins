@@ -1,0 +1,13 @@
+
+- set_attribute.rb
+
+   nife plugin to set node Attributes http://wiki.opscode.com/display/chef/Attributes
+
+  Install
+     Place in .chef/plugins/knife/set_attributes.rb
+
+  Note: Based on set_environment.rb plugin by Nick Stielaus with input from Mailing list posts
+
+  Usage
+   $ knife node set_attribute node.domain some_thing value_is 
+
